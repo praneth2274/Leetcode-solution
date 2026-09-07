@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/praneth2274/Leetcode-solution/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/praneth2274/Leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/praneth2274/Leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -70,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/praneth2274/Leetcode-solution/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/praneth2274/Leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
