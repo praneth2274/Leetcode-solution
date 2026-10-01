@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/praneth2274/Leetcode-solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/praneth2274/Leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3525-find-x-value-of-array-ii](https://github.com/praneth2274/Leetcode-solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praneth2274/Leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/praneth2274/Leetcode-solution/tree/master/3870-count-commas-in-range) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/praneth2274/Leetcode-solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/praneth2274/Leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Sliding Window
 |  |
 | ------- |
