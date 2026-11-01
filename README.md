@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/praneth2274/Leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/praneth2274/Leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praneth2274/Leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praneth2274/Leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/praneth2274/Leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/praneth2274/Leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/praneth2274/Leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3525-find-x-value-of-array-ii](https://github.com/praneth2274/Leetcode-solution/tree/master/3525-find-x-value-of-array-ii) |
